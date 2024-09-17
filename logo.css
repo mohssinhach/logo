@@ -315,7 +315,7 @@ html[dir="ltr"] .searchBar .input-group button{border-left:none}
 .color02 h6, .color04 h6 { color: #81c7bc; font-weight: bold; font-size: 1.4rem; line-height: 2rem; }
 .fatwaCard a { background-color: #d0eae6; color: #58a79f; padding: 5px 1rem; border: none; font-weight: 600; font-size: 0.85rem; border-radius: 80px; text-decoration: none; }
 /*survey*/
-.survey { right: 25px; bottom: 25px; position: fixed; z-index: 9999; }
+.survey { right: 25px; bottom: 25px; position: moved; z-index: 9999; }
 
 .survey a { position: relative; }
 
@@ -681,7 +681,7 @@ ol > li::marker { font-weight: bold; font-size:1.2rem }
     .bg-maroon{ height:670px}
     .loginContainer .bg-gradient{ border-radius:0}
     .nav-pills .nav-link { font-size:0.8rem}
-    .toast-container { position: fixed !important; transform: translateY(-9%); margin: auto }
+    .toast-container { position: moved !important; transform: translateY(-9%); margin: auto }
     .aboutImg .aboutContent { padding: 2rem 0; }
     
 }
@@ -721,7 +721,7 @@ ol > li::marker { font-weight: bold; font-size:1.2rem }
     .headerBanner { background-color: #6f4667; height: 215px; }
     .headerBanner img { display: none }
     .navbar .navbar-collapse.collapse.show { padding-bottom: 1rem; }
-    .toast-container { position: fixed !important; transform: translateY(-9%); margin: auto }
+    .toast-container { position: moved !important; transform: translateY(-9%); margin: auto }
 }
 
 /* desktop devices*/
