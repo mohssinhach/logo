@@ -695,7 +695,7 @@ ol > li::marker { font-weight: bold; font-size:1.2rem }
     .jood-type p { display: none }
     .jood-type h6 { font-size: 1.3rem; }
     .Org-logo { height: 190px; }
-    .Org-logo img { width: 100% !important; height: 135px }
+    .Org-logo img { width: 500% !important; height: 135px }
     .Org-logo p { width: 90% }
     /*.campaign-card .card-body { padding: 0.5rem 1.5rem }*/
     .campaign-card .splide__arrows { display: block }
