@@ -85,8 +85,8 @@ ul.nav-pills .nav-item { margin: 0 0.5rem 0.5rem 0.5rem; flex: auto; }
 .onScroll .navbar .nav-link { color: #FFFFFF }
 .onScroll .navbar .nav-link:hover { border: none; background-color: #80c7bc; color: #ffffff; border-radius:20px }
 .onScroll .navbar-brand{ margin:0}
-.onScroll .navbar-brand .jood-logo { width: 50px; transition:ease 0.5s all }
-.navbar-brand .jood-logo {width:85px; transition:ease 0.5s all }
+.onScroll .navbar-brand .jood-logo { width: 150px; transition:ease 0.5s all }
+.navbar-brand .jood-logo {width:150px; transition:ease 0.5s all }
 .navbar-brand{ margin:15px}
 .btn-login { background-color: #ffffff; color: #81406f; padding: 0 20px; height: 38px; line-height: 38px; border-radius: 80px; border: none; font-weight: bold; font-size: 1rem; min-width: 150px }
 .onScroll .btn-login {border:1px solid}
