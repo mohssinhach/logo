@@ -715,7 +715,7 @@ ol > li::marker { font-weight: bold; font-size:1.2rem }
     .Org-logo img{width:120px !important; height:135px}
     .Org-logo p{width:90%;font-size: 0.75rem;}
     .bg-maroon:before{background-image:none !important}
-    .btn-Jood-type .card-body{padding:5px}
+    .btn-Jood-type .card-body{padding:px}
     .bg-maroon{ height:780px}
     .navbar { background-color: #6f4667; align-items: baseline; margin: 0; padding: 0; }
     .headerBanner { background-color: #6f4667; height: 215px; }
