@@ -681,7 +681,7 @@ ol > li::marker { font-weight: bold; font-size:1.2rem }
     .bg-maroon{ height:670px}
     .loginContainer .bg-gradient{ border-radius:0}
     .nav-pills .nav-link { font-size:0.8rem}
-    .toast-container { position: fixed !important; transform: translateY(-9%); margin: auto }
+    .toast-container { position: move !important; transform: translateY(-9%); margin: auto }
     .aboutImg .aboutContent { padding: 2rem 0; }
     
 }
