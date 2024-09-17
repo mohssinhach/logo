@@ -653,7 +653,7 @@ ol > li::marker { font-weight: bold; font-size:1.2rem }
     .navbar .navbar-collapse.collapse.show { padding-bottom:1rem}
     .navbar-brand {margin: 0;}
     .navbar-brand .jood-logo{width: 150px;}  
-    .jood-type .card{ margin-top:150px}
+    .jood-type .card{ margin-top:100px}
     .jood-type .card-body { height: auto; padding: 12px 5px 0 5px; }
     .jood-type .card-body div img{height: 35px;}
     .jood-type .card-body h6{font-size:0.85rem}
