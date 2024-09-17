@@ -33,8 +33,8 @@ body {
 .onScroll .lang-link{background-color:#6c3b5e}
 .lang-link:hover{ background-color:#80c7bc; color:#ffffff; text-decoration:none}
 .inpageContainer { margin: 2.5rem 0 }
-.organization-logo{height:230px;width:250px}
-.organization-logo img{width: 100% !important; height: 100%;}
+.organization-logo{height:130px;width:150px}
+.organization-logo img{width: 300% !important; height: 300%;}
 .Section-Heading { color: #6c3b5e; font-weight: 700; }
 .Section-Heading:after { content: " "; border-bottom: 3px solid #80c8bd; display: block; width: 40px; margin: 10px 0; }
 .Sub-Heading { color: #333333; font-weight: 700; display: flex; align-items: center; flex-direction: column; text-align: center; margin:10px 0 }
