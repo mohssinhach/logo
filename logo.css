@@ -109,7 +109,7 @@ h4.webcontent a { color: #572d4b }
 /*survey*/
 .takePollBtn { background: url('../images/takePollBtn.png') no-repeat }
 .takePollBtn, .pollResultBtn {
-    position: fixed;
+    position: moved;
     height: 110px;
     width: 75px;
     display: flex;
